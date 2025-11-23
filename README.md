@@ -52,22 +52,35 @@ Want help creating your stablecoin wallet? Here’s a quick [video guide](https:
 
 ---
 
-# **Raenest UI Copy (In-App)**
+# Raenest UI Copy (In-App)
 
-### **Home Banner**
+## Home Banner
 Convert USDT & USDC instantly.  
 Your crypto becomes USD in one tap.
 
-### **Wallet Tab Tooltip**
+![Home Banner](https://raw.githubusercontent.com/OyewoleJoshua/Raenest-Articles-/main/Home%20banner%20UI)
+
+
+---
+
+## Wallet Tab Tooltip
 Create a stablecoin wallet to receive USDT or USDC and convert instantly to USD.
 
-### **Confirmation Screen**
+![Wallet Tab Tooltip](https://raw.githubusercontent.com/OyewoleJoshua/Raenest-Articles-/main/Wallet%20tool%20tip.jpg)
+
+---
+
+## Confirmation Screen
 You’re about to convert your stablecoins to USD.  
 Rate: 1:1  
 Fee shown before you confirm.
 
-### **Success Screen**
+![Confirmation Screen](https://raw.githubusercontent.com/OyewoleJoshua/Raenest-Articles-/main/Confirmation%20UI.jpg)
+
+---
+
+## Success Screen
 Conversion complete!  
 Your USD balance has been updated instantly.
 
----
+![Success Screen](https://raw.githubusercontent.com/OyewoleJoshua/Raenest-Articles-/main/Home%20banner%20UI)
